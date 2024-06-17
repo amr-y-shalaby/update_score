@@ -1,5 +1,9 @@
 <!-- TOC -->
-* [Update Score Method](#update-score-method)
+* [§1. Update Score Robustness:](#1-update-score-robustness)
+* [§2. Update Score Customizable Weights:](#2-update-score-customizable-weights)
+* [§3. Example using Dummy Data:](#3-example-using-dummy-data)
+* [§4. Visualized Result:](#4-visualized-result)
+* [§5. Excel Tool:](#5-excel-tool)
 <!-- TOC -->
 
 # §1. Update Score Robustness:
